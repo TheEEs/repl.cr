@@ -1,0 +1,9 @@
+name: exp_parser
+version: 0.1.0
+
+authors:
+  - TheEEs <visualbasic2013@hotmail.com>
+
+crystal: 1.0.0
+
+license: MIT
