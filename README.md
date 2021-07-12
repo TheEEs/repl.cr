@@ -15,11 +15,13 @@ This is a project that demonstrates how to create a tree-walker interpreter. It 
 ## Usage
 
 1. Evalutes single expression.
+
 ```crystal
 1 * (6 + 10 / 2)
 ```
 
 2. Evalutes multiple expression.
+
 ```crystal
 1 * (6 + 10 / 2); 8 ** 3
 ```
