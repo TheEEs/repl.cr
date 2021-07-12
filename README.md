@@ -6,9 +6,9 @@ This is a project that demonstrates how to create a tree-walker interpreter. It 
 
 1. Clones this repository:
 
-   ```
+  ```
   $ git clone https://github.com/TheEEs/expression_repl.git
-   ```
+  ```
 
 2. Navigates into the cloned directory then run: 
   ```
