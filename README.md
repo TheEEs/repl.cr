@@ -24,3 +24,5 @@ This is a project that demonstrates how to create a tree-walker interpreter. It 
 1 * (6 + 10 / 2); 8 ** 3
 ```
 
+3. Types `exit` to terminate the program
+
