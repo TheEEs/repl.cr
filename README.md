@@ -10,7 +10,7 @@ This is a project that demonstrates how to create a tree-walker interpreter. It 
   $ git clone https://github.com/TheEEs/expression_repl.git
    ```
 
-2. Navigates into the cloned directory & run: `crystal run -Drepl ./src/repl.cr`
+2. Navigates into the cloned directory then run: `crystal run -Drepl ./src/repl.cr`
 
 ## Usage
 
